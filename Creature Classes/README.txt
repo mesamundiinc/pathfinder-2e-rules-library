@@ -1,0 +1,1 @@
+Creature Class Templates are used to primarily define classes and races such as Core classes, Variants of a class, Prestige classes or Monster templates.

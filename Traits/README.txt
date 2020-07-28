@@ -1,0 +1,1 @@
+Traits are categorized entities which can describe feats, class abilities or other traits of a creature or character. Traits can have usage templates attached to them which provide various functionality such as At Will, On Equip, Per Day, etc.  As the game system allows.

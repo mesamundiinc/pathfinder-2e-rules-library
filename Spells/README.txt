@@ -1,0 +1,1 @@
+Spells are D20PRO automation flows and text descriptions which describe spell behaviors for the current game system

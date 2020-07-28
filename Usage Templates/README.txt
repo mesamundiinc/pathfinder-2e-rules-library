@@ -1,0 +1,1 @@
+Usage Templates are categories of usage for describing spell pools, charged items, rechargable traits, etc. These templates can be applied to Traits and allow for various Abilities in the D20PRO engine to be utilized by a creature who possesses the template enabled trait.

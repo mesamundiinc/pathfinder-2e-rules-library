@@ -1,0 +1,1 @@
+Scripts are javascript entries which are combined into a script library and accessible to features and spells. These scripts can be very details or simplistic as the need requires.
